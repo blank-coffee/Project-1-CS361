@@ -66,3 +66,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+#data sets too big
+passwords/
+histogram.csv
+hashset_sample.txt
+
+
